@@ -1,4 +1,4 @@
-<h1>Keyboard-Cleaner</h1>
+<h1>Keyboard-Cleaner ⌨️</h1>
 
 <div>
   <a href="#">
@@ -10,7 +10,9 @@
 
 <h3 align="center">This app is simple and useful at the same time. If there is a need to clean the keyboard of your laptop, but you don't want to turn it off - Keyboard Cleaner will help you.</h3>
 
-<h1>Application process</h1>
+<h1>Application process ⚒️</h1>
+
+<h4>When you install the .exe file and run it, the program needs to be run as an administrator, don't worry - this is only for it to work.</h4>
 
 <div>
   <a href="#">
@@ -32,3 +34,10 @@
 
 <h4>The text in the button changes to "STOP CLEANING" and the keyboard indicator turns red.</h4>
 
+<h1>Support ⭐</h1>
+<p>If this application helped you and you want to support the author - you can do it by clicking on the button below. Thank you! ⚡</p><br>
+<div align="center">
+  <p style="padding: 5px;" >
+    <a href="https://www.buymeacoffee.com/onedev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 65px !important;width: 225px !important;" ></a>
+  </p>
+</div>
