@@ -10,6 +10,12 @@
 
 <h3 align="center">This app is simple and useful at the same time. If there is a need to clean the keyboard of your laptop, but you don't want to turn it off - Keyboard Cleaner will help you.</h3>
 
+<p align="center">
+  <a href="#">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fonemarc%2FKeyboard-Cleaner&label=VISITORS&countColor=%23bababa" />
+  </a>
+</p>
+
 <h1>Application process ⚒️</h1>
 
 <h4>When you install the .exe file and run it, the program needs to be run as an administrator, don't worry - this is only for it to work.</h4>
